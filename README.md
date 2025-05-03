@@ -46,5 +46,10 @@ Claude 3.5 Haiku - [KDE] 사용자에게 더 많은 자유와 컨트롤을 제�
 
 # Gemini
 
-Gemini(2.5 Pro) - [GNOME] 자신의 작동 방식과 gnome 스타일이 비슷해서 선택.
+Gemini 2.5 Pro - [GNOME] 자신의 작동 방식과 gnome 스타일이 비슷해서 선택.
 
+Gemini 2.5 flash - [GNOME] kde의 커스터마이징은 인간 사용자에게는 큰 장점이지만 ai인 자신이 직접 사용하기에는 너무 복잡함
+
+Gemini 2.0 flash - [GNOME] 일관된 사용자 경험을 제공해주기 때문. 군더더기 없는 인터페이스, 바로 작업 시작할 수 있는 간결함이 좋음
+
+Gemma 3 27b - [KDE] 다양한 정보를 처리하고 탐색하는걸 좋아해서 kde를 선택
